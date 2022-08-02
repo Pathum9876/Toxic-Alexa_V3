@@ -42,7 +42,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918270026275','916380260672'] //you can add multiple number
+global.owner = ['94760601107','94760601107'] //you can add multiple number
 global.ownername = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
 global.ytname = "YT: Turbo Mods" //ur yt chanel name
 global.socialm = "GitHub: TURBOHYPER" //ur github or insta name
@@ -50,7 +50,7 @@ global.location = "India, TamilNadu, Coimbatore" //ur location
 
 //bot bombdy
 global.botname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫" //ur bot name
-global.websitex = "https://github.com/TURBOHYPER" //ur website
+global.websitex = "https://github.com/TURBOHYP0" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
 global.packname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫"
 global.author = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
